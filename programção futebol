@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Site Interno sobre Futebol</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+  .paragrafo-impar {
+    font-size: 16pt;
+    color: red;
+  }
+  .paragrafo-par {
+    font-size: 20pt;
+    font-family: Verdana, sans-serif;
+    color: blue;
+  }
+</style>
+</head>
+<body>
+<div id="conteudo">
+  <p class="paragrafo-impar">O futebol é um esporte apaixonante que atrai milhões de fãs em todo o mundo. A emoção de assistir a uma partida ao vivo é incomparável, com torcedores vibrando a cada lance.</p>
+  <p class="paragrafo-par">As rivalidades entre os times são parte fundamental da cultura futebolística. Clássicos como Barcelona x Real Madrid e Manchester United x Liverpool movimentam multidões e fazem história.</p>
+  <p class="paragrafo-impar">Além dos grandes clubes, as seleções nacionais também têm seu lugar de destaque. A Copa do Mundo é o evento mais esperado do futebol, reunindo países de todos os continentes em uma competição acirrada.</p>
+  <p class="paragrafo-par">Os craques do futebol são verdadeiros ídolos, inspirando jovens talentos e conquistando o coração dos torcedores. Nomes como Pelé, Neymar, Messi e Cristiano Ronaldo ficarão para sempre na história do esporte.</p>
+</div>
+</body>
+</html>
